@@ -1,3 +1,4 @@
+//program Arduino Uno once with uncomented "#define CONFIG_EEPROM" (below line) to program lifetime
 //#define CONFIG_EEPROM
 
 #include <EEPROM.h>
